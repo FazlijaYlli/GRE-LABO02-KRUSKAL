@@ -1,4 +1,4 @@
-package gre.lab2.groupeX;
+package gre.lab2.groupe12;
 
 import gre.lab2.gui.InstanceProvider;
 import gre.lab2.gui.MazeGenerator;

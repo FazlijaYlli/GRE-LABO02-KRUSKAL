@@ -1,4 +1,4 @@
-package gre.lab2.groupeX;
+package gre.lab2.groupe12;
 
 import gre.lab2.gui.MazeBuilder;
 import gre.lab2.gui.MazeGenerator;
@@ -11,7 +11,6 @@ public final class KruskalMazeGenerator implements MazeGenerator {
 }
 
 // TODO
-//  - Renommage du package ;
 //  - Implémentation des classes KruskalMazeGenerator, UnionFind et BfsSolver ;
 //  - Documentation abondante des trois classes comprenant :
 //    - la javadoc, avec auteurs et description des implémentations ;
